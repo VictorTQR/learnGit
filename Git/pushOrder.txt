@@ -1,0 +1,3 @@
+add
+commit -m "message"
+push origin master
